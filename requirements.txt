@@ -1,0 +1,6 @@
+Flask
+pandas
+scikit-learn
+prophet
+langgraph
+nest_asyncio
