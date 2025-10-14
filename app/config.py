@@ -11,6 +11,6 @@ class Config:
     # Email settings
     SMTP_SERVER = 'smtp.gmail.com'
     SMTP_PORT = 465
-    SENDER_EMAIL = os.getenv('SENDER_EMAIL')
-    SENDER_PASSWORD = os.getenv('SENDER_PASSWORD')
-    RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL')
+    SENDER_EMAIL = "sounaksarkar45@gmail.com"
+    SENDER_PASSWORD = "iivx kxep xqqv jlns"
+    RECEIVER_EMAIL = "sounaksarkar47@gmail.com"
